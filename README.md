@@ -3,7 +3,6 @@
 Vim 에서 [아희](https://aheui.github.io/)를 지원하기 위한 플러그인입니다.
 
 ![](https://raw.githubusercontent.com/mnpk/aheui.vim/master/demo.gif)
-![](https://raw.githubusercontent.com/mnpk/aheui.vim/master/screencast.gif)
 
 ## 지원기능
 - 아희 구문 강조
