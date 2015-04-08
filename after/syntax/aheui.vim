@@ -15,4 +15,4 @@ hi def link ctrl Identifier
 hi def link push Normal
 hi def link pop Function
 hi def link sem Operator
-hi def link fin Special
+hi def link fin Define
